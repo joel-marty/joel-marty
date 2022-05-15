@@ -1,5 +1,5 @@
 <h1>Hello there, I'm Joël Marty 🙋‍♂️</h1>
-<h2>💻👨‍💻Professional Software Developer</h2>
+<h2>💻👨‍💻Professional Software Engineer</h2>
 
 
 
